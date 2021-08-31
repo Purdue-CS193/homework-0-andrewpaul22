@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Andrew Paul's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,11 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- The teachers are TA's
+- The classroom being in WALC
+- Instructions are simple and explain it very easy
+- The vibes are immaculate
+- Class is only once a week
 
 **Bold** and _Italic_ and `Code` text
 
